@@ -1,0 +1,23 @@
+.header {
+  background-image: url(./images/bg-weather.png);
+  width: 1400px;
+  height: 806px;
+  margin: 0 auto;
+}
+.header .header__left {
+  border: 1px solid yellow;
+  width: 60%;
+  height: 806px;
+}
+.header .header__left .header__left_logo {
+  width: 1200px;
+  height: 42px;
+  margin: 0 auto;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  box-sizing: border-box;
+}/*# sourceMappingURL=main.css.map */
